@@ -107,8 +107,8 @@ function App() {
       cover={<img alt="example" src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
     >
       
-      <Meta title="/name"/>
-      <Meta title="/username"/>
+      <Meta title="name"/>
+      <Meta title="login"/>
       <div>
         <a>
         <Avatar size="small" icon={<UserOutlined />} />
